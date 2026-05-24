@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="CadastroEvento.AppHost/CadastroEvento.AppHost.csproj" />
+  <Project Path="CadastroEvento.ServiceDefaults/CadastroEvento.ServiceDefaults.csproj" />
+  <Project Path="CadastroEvento/CadastroEvento.csproj" />
+</Solution>
